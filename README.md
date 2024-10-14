@@ -1,13 +1,13 @@
 # Exercício 3:
 
-indice: int = 12
-soma: int = 0
-k: int = 1
+indice: int = 12 <br />
+soma: int = 0 <br />
+k: int = 1 v
 
-while (k < indice):
-    k = k + 1
-    soma = soma + k
-
+while (k < indice): <br />
+    k = k + 1 <br />
+    soma = soma + k <br />
+<br />
 Resultado: 77
 
 # Exercício 4:
